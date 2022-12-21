@@ -1,9 +1,14 @@
-### Hi there 👋
+<h1> Olá, eu sou Wilson 👋</h1>
+
+- 🔥 Front End - Designer
+
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+
+- 📫 Como chegar até mim: wjuniorsantana@gmail.com
+
 
 <!--
-**WilsonSantanaJr/WilsonSantanaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
